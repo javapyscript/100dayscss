@@ -6,3 +6,4 @@ I have started working on the 100dayscss to further improve my frontend skills o
 | ----------- | ----------- | ----------- |
 | 1   | [gif link](gif/cssDay1.gif)       | [codepen](https://codepen.io/javapyscript/pen/QWKdagx) |
 | 2   | [gif link](gif/cssDay2.gif)       | [codepen](https://codepen.io/javapyscript/pen/gOwmaVr) |
+| 3   | [gif link](gif/cssDay3.gif)       | [codepen](https://codepen.io/javapyscript/pen/GRjWwbJ) |
